@@ -1,5 +1,5 @@
 name: hello
-#test
+#test2
 on: [push]
 
 jobs:
